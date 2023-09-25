@@ -1,4 +1,5 @@
 mango
 orange
 rugby
-fire
+guava
+strwberry

@@ -1,0 +1,7 @@
+tree
+seed
+goat
+chicken
+mutton
+yo
+bro
