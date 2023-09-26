@@ -1,12 +1,11 @@
 mango
 apple
 
-
-cherry
-guava
+green
+blue
 
 plants
 wall
 
 shushi
-banaaa
+banana
