@@ -7,3 +7,6 @@ guava
 
 plants
 wall
+
+shushi
+banaaa
