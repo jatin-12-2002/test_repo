@@ -4,3 +4,6 @@ apple
 
 cherry
 guava
+
+plants
+wall
